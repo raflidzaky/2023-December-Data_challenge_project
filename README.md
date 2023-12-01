@@ -2,6 +2,8 @@
 
 ## Brief Project Description
 This project aimed to analyze hotel booking cancellation. Thus, the output is recommendations to prevent booking cancellation. 
+![CRISP-DM method](/storage/emulated/0/Download/skema.jpg)
+
 To achieve such output, I apply several CRISP points:
 * Business Understanding: Understand (dummy) clients' needs and translate business mechanisms onto framework to interpret and analyze the data.
 * Data Understanding: Understand the data quality, characteristics, completeness, and logic behind the data.
