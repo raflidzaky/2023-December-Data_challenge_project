@@ -2,6 +2,7 @@
 
 ## Brief Project Description
 This project aimed to analyze hotel booking cancellation. Thus, the output is recommendations to prevent booking cancellation. 
+
 ![CRISP-DM method](/storage/emulated/0/Download/skema.jpg)
 
 To achieve such output, I apply several CRISP points:
