@@ -21,6 +21,6 @@ To achieve such output, I apply several CRISP points:
 !pip install session-info
 
 # See session info
-import sessionsession_info
+import session_info
 session_info.show()
 ```
