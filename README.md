@@ -10,8 +10,17 @@ To achieve such output, I apply several CRISP points:
 * Evaluation: Model evaluation using several metrics, such as Accuracy and F1-Score
 
 
-## Env. 
+## Env. Setting
 ```
 * For env. settings, please look at the requirements.txt file.
-* This project using Google Colab as IDE. All libraries were imported to do analysis
+* This project using Google Colab as IDE. All libraries were
+ imported to do analysis
+```
+```
+# Install session info
+!pip install session-info
+
+# See session info
+import sessionsession_info
+session_info.show()
 ```
